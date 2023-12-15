@@ -6,7 +6,7 @@ var height=window.innerHeight;;
 console.log(2);
 ctx.fillStyle = "red";
 ctx.fillRect(0, 0, width, height);
-
+/*
 
 const options = {
     inputs:3,
@@ -73,4 +73,4 @@ function complete(){
     //setTimer(execute,50);
 }
 
-//setInterval(complete,10);
+//setInterval(complete,10);*/
