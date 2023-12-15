@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"prevYP":{"dtype":"number","min":28.5,"max":480.01},"yP":{"dtype":"number","min":28.5,"max":494.5},"time":{"dtype":"number","min":0,"max":100}},"outputs":{"nextYP":{"dtype":"number","min":28.5,"max":480}},"isNormalized":true}
